@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">
-  Soul AI 
+  Alma AI
 </h1>
 
 <h5 align="center">
